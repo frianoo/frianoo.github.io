@@ -15901,7 +15901,7 @@ var $async$xy=P.Y(function(c,d){if(c===1)return P.Z(d,r)
 while(true)switch(s){case 0:q=C.a5.v0(a,null)
 p=t.X
 s=2
-return P.a5(G.a8U("http://askmeanything2020.herokuapp.com"+b,q,P.av(["Content-Type","application/json"],p,p)),$async$xy)
+return P.a5(G.a8U("https://askmeanything2020.herokuapp.com"+b,q,P.av(["Content-Type","application/json"],p,p)),$async$xy)
 case 2:return P.a_(null,r)}})
 return P.a0($async$xy,r)},
 Jt:function(a,b){var s=0,r=P.a1(t.z),q,p,o,n
@@ -15909,7 +15909,7 @@ var $async$Jt=P.Y(function(c,d){if(c===1)return P.Z(d,r)
 while(true)switch(s){case 0:p=C.a5.v0(a,null)
 o=t.X
 s=3
-return P.a5(G.a8U("http://askmeanything2020.herokuapp.com"+b,p,P.av(["Content-Type","application/json"],o,o)),$async$Jt)
+return P.a5(G.a8U("https://askmeanything2020.herokuapp.com"+b,p,P.av(["Content-Type","application/json"],o,o)),$async$Jt)
 case 3:n=d
 q=J.b0(C.a5.fh(0,B.jQ(U.jO(n.e).c.a.h(0,"charset")).ct(0,n.x),null),"_id")
 s=1
@@ -49052,7 +49052,7 @@ case 2:f.bX(0)
 q=5
 i=J.bP(g.d).toLowerCase()
 g.d=i
-m="http://askmeanything2020.herokuapp.com"+("/users/u/"+i+"/"+H.a(g.e))
+m="https://askmeanything2020.herokuapp.com"+("/users/u/"+i+"/"+H.a(g.e))
 s=8
 return P.a5(G.lJ(m),$async$$0)
 case 8:l=b
@@ -49152,7 +49152,7 @@ q=5
 h=J.bP(f.d)
 h=H.hc(h.toLowerCase()," ","")
 f.d=h
-m="http://askmeanything2020.herokuapp.com"+("/users/u/"+h)
+m="https://askmeanything2020.herokuapp.com"+("/users/u/"+h)
 s=8
 return P.a5(G.lJ(m),$async$$0)
 case 8:l=b
@@ -49220,7 +49220,7 @@ this.d=this.eF()},
 eF:function(){var s=0,r=P.a1(t.dD),q,p=this,o
 var $async$eF=P.Y(function(a,b){if(a===1)return P.Z(b,r)
 while(true)switch(s){case 0:s=3
-return P.a5(G.lJ("http://askmeanything2020.herokuapp.com"+("/question/"+H.a(p.a.d))),$async$eF)
+return P.a5(G.lJ("https://askmeanything2020.herokuapp.com"+("/question/"+H.a(p.a.d))),$async$eF)
 case 3:o=b
 q=J.iC(C.a5.fh(0,B.jQ(U.jO(o.e).c.a.h(0,"charset")).ct(0,o.x),null),new Z.XJ(),t.ve).dk(0)
 s=1
@@ -49257,7 +49257,7 @@ r.kH("/answer",new R.lQ(n,o.h(q,p).c),t._)},
 $S:0}
 Z.XN.prototype={
 $0:function(){var s=null
-T.iK(new T.fu("https://frianoo.github.io/#/question/"+H.a(J.b0(this.b,this.c).a)))
+T.iK(new T.fu("https://frianoo.github.io/index.html#/question/"+H.a(J.b0(this.b,this.c).a)))
 this.a.f.gaR().nf(N.Di(s,s,s,s,L.a7("Link copied",s,s,s,s,s),C.jc,s,s,s,s))},
 $C:"$0",
 $R:0,
@@ -49305,7 +49305,7 @@ this.d=this.eF()},
 eF:function(){var s=0,r=P.a1(t.dD),q,p=this,o
 var $async$eF=P.Y(function(a,b){if(a===1)return P.Z(b,r)
 while(true)switch(s){case 0:s=3
-return P.a5(G.lJ("http://askmeanything2020.herokuapp.com"+("/question/"+H.a(p.a.c))),$async$eF)
+return P.a5(G.lJ("https://askmeanything2020.herokuapp.com"+("/question/"+H.a(p.a.c))),$async$eF)
 case 3:o=b
 q=J.iC(C.a5.fh(0,B.jQ(U.jO(o.e).c.a.h(0,"charset")).ct(0,o.x),null),new Z.XA(),t.ve).dk(0)
 s=1
@@ -49336,7 +49336,7 @@ r.kH("/answer",new R.lQ(n,o.h(q,p).c),t._)},
 $S:0}
 Z.XE.prototype={
 $0:function(){var s=null
-T.iK(new T.fu("https://frianoo.github.io/#/question/"+H.a(J.b0(this.b,this.c).a)))
+T.iK(new T.fu("https://frianoo.github.io/index.html#/question/"+H.a(J.b0(this.b,this.c).a)))
 this.a.f.gaR().nf(N.Di(s,s,s,s,L.a7("Link copied",s,s,s,s,s),C.jc,s,s,s,s))},
 $C:"$0",
 $R:0,
@@ -49391,7 +49391,7 @@ this.fK()},
 fK:function(){var s=0,r=P.a1(t.z),q=this,p
 var $async$fK=P.Y(function(a,b){if(a===1)return P.Z(b,r)
 while(true)switch(s){case 0:s=2
-return P.a5(G.lJ("http://askmeanything2020.herokuapp.com"+("/question/view/"+H.a(q.a.c))),$async$fK)
+return P.a5(G.lJ("https://askmeanything2020.herokuapp.com"+("/question/view/"+H.a(q.a.c))),$async$fK)
 case 2:p=b
 q.ao(new Y.W1(q,J.b0(C.a5.fh(0,B.jQ(U.jO(p.e).c.a.h(0,"charset")).ct(0,p.x),null),"question")))
 return P.a_(null,r)}})
@@ -49446,7 +49446,7 @@ this.fK()},
 fK:function(){var s=0,r=P.a1(t.z),q=this,p
 var $async$fK=P.Y(function(a,b){if(a===1)return P.Z(b,r)
 while(true)switch(s){case 0:s=2
-return P.a5(G.lJ("http://askmeanything2020.herokuapp.com"+("/question/view/"+H.a(q.a.c))),$async$fK)
+return P.a5(G.lJ("https://askmeanything2020.herokuapp.com"+("/question/view/"+H.a(q.a.c))),$async$fK)
 case 2:p=b
 q.ao(new Y.VW(q,J.b0(C.a5.fh(0,B.jQ(U.jO(p.e).c.a.h(0,"charset")).ct(0,p.x),null),"question")))
 return P.a_(null,r)}})
@@ -49516,7 +49516,7 @@ this.d=this.a.d},
 fP:function(){var s=0,r=P.a1(t.Fy),q,p=this,o
 var $async$fP=P.Y(function(a,b){if(a===1)return P.Z(b,r)
 while(true)switch(s){case 0:s=3
-return P.a5(G.lJ("http://askmeanything2020.herokuapp.com"+("/answer/view/"+H.a(p.a.c))),$async$fP)
+return P.a5(G.lJ("https://askmeanything2020.herokuapp.com"+("/answer/view/"+H.a(p.a.c))),$async$fP)
 case 3:o=b
 q=J.iC(C.a5.fh(0,B.jQ(U.jO(o.e).c.a.h(0,"charset")).ct(0,o.x),null),new G.a04(),t.eI).dk(0)
 s=1
@@ -49530,7 +49530,7 @@ $1:function(a){return E.a4H(a)},
 $S:65}
 G.a06.prototype={
 $0:function(){var s=null,r=this.a
-T.iK(new T.fu("https://frianoo.github.io/#/question/"+H.a(r.a.c)))
+T.iK(new T.fu("https://frianoo.github.io/index.html#/question/"+H.a(r.a.c)))
 r.e.gaR().nf(N.Di(s,s,s,s,L.a7("Link copied",s,s,s,s,s),C.jc,s,s,s,s))},
 $C:"$0",
 $R:0,
@@ -49554,7 +49554,7 @@ this.d=this.a.d},
 fP:function(){var s=0,r=P.a1(t.Fy),q,p=this,o
 var $async$fP=P.Y(function(a,b){if(a===1)return P.Z(b,r)
 while(true)switch(s){case 0:s=3
-return P.a5(G.lJ("http://askmeanything2020.herokuapp.com"+("/answer/view/"+H.a(p.a.c))),$async$fP)
+return P.a5(G.lJ("https://askmeanything2020.herokuapp.com"+("/answer/view/"+H.a(p.a.c))),$async$fP)
 case 3:o=b
 q=J.iC(C.a5.fh(0,B.jQ(U.jO(o.e).c.a.h(0,"charset")).ct(0,o.x),null),new G.a00(),t.eI).dk(0)
 s=1
@@ -49568,7 +49568,7 @@ $1:function(a){return E.a4H(a)},
 $S:65}
 G.a02.prototype={
 $0:function(){var s=null,r=this.a
-T.iK(new T.fu("https://frianoo.github.io/#/question/"+H.a(r.a.c)))
+T.iK(new T.fu("https://frianoo.github.io/index.html#/question/"+H.a(r.a.c)))
 r.e.gaR().nf(N.Di(s,s,s,s,L.a7("Link copied",s,s,s,s,s),C.jc,s,s,s,s))},
 $C:"$0",
 $R:0,
